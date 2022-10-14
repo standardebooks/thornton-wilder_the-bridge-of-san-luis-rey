@@ -48,7 +48,7 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thornton-wilder_the-bridge-of-san-luis-rey</meta>
 		<dc:creator id="author">Thornton Wilder</dc:creator>
 		<meta property="file-as" refines="#author">Wilder, Thornton</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Thornton Niven Wilder</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Thornton_Wilder</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79062874</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -61,9 +61,9 @@
 		<meta property="file-as" refines="#transcriber-1">Rice, Vince</meta>
 		<meta property="se:url.homepage" refines="#transcriber-1">https://www.brokenandsaved.com</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.brokenandsaved.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
