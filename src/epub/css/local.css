@@ -25,3 +25,22 @@ blockquote[xml|lang]{
 	display: none;
 }
 /* end of poem/verse/song */
+
+table{
+	margin: 0 auto;
+	font-variant-numeric: tabular-nums;
+}
+
+table thead th{
+	padding-left: 1em;
+}
+
+tbody th{
+	padding-right: 1em;
+	text-align: initial;
+}
+
+table td,
+thead th{
+	text-align: right;
+}
