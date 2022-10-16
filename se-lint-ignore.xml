@@ -2,10 +2,6 @@
 <se-lint-ignore>
 	<file path="chapter-3.xhtml">
 		<ignore>
-			<code>t-011</code>
-			<reason>The sentence fragment is as it is in the scans.</reason>
-		</ignore>
-		<ignore>
 			<code>t-042</code>
 			<reason>The sentence is as it is in the scans.</reason>
 		</ignore>
