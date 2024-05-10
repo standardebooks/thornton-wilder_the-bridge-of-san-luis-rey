@@ -50,7 +50,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://archive.org/details/bridgeofsanluisr0000wild_f6o5</dc:source>
 		<meta property="se:word-count">32586</meta>
-		<meta property="se:reading-ease.flesch">71.04</meta>
+		<meta property="se:reading-ease.flesch">71.14</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Bridge_of_San_Luis_Rey</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thornton-wilder_the-bridge-of-san-luis-rey</meta>
 		<dc:creator id="author">Thornton Wilder</dc:creator>
